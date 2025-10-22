@@ -40,10 +40,10 @@ body {
   padding: 0px;
 }
 .list-item, .subtitle {
-  list-style:none;
+  list-style: none;
 }
 .input,button{
-  outline:none;
+  outline: none;
 }
 button {
   background: none;
@@ -136,14 +136,14 @@ button.delete img:hover {
 
 /* Edit Task */
 .todo-list .list-item input[type="text"] {
-  display:none
+  display: none
 }
 
 .todo-list .edit-mode input[type="text"] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .todo-list .edit-mode .task {
-  display:none;
+  display: none;
 }
